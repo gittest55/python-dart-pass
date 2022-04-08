@@ -3,7 +3,7 @@ main (){
   
   const hour= DateTime.now().hour;
   
-  // now() is consided a Constructor and the data is being changed Approximately every mille secounds
+  // now() is consided a Constructor and the data is being changed Approximately every millie secounds
   /* Const variables must be initialized with a constant value.
    Example:
    */
