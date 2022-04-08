@@ -1,7 +1,7 @@
 
 main (){
   
-  int hour= DateTime.now().hour;
+  const hour= DateTime.now().hour;
   
   // now() is consided a Constructor and the data is being changed Approximately every mille secounds
   /* Const variables must be initialized with a constant value.
